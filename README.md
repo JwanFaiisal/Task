@@ -4,7 +4,7 @@ This project contains automated Selenium WebDriver tests written in Java using J
 
 ## Project Structure
 
-  Contains the Tasks classes with different test cases.
+- Contains the Task classes with different test cases.
 
 ## Tests Included
 
